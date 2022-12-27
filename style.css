@@ -1,0 +1,9 @@
+@import 'css/reboot.css';
+@import 'css/index.css';
+
+@font-face {
+   font-family: 'Stick';
+   src: url('../fonts/Stick-Regular.woff2') format('woff2'), url('../fonts/Stick-Regular.woff') format('woff');
+   font-weight: 400;
+   font-style: normal;
+}
